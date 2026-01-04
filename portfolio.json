@@ -1,0 +1,27 @@
+{
+    "cash": 50524.18654286946,
+    "holdings": {
+        "UPL.NS": {
+            "qty": 12,
+            "avg_price": 805.4546744384766
+        },
+        "ONGC.NS": {
+            "qty": 41,
+            "avg_price": 241.70146672058107
+        },
+        "CANBK.NS": {
+            "qty": 64,
+            "avg_price": 155.0248651123047
+        },
+        "PNB.NS": {
+            "qty": 79,
+            "avg_price": 125.47534847259521
+        },
+        "BANKINDIA.NS": {
+            "qty": 67,
+            "avg_price": 149.36922122192382
+        }
+    },
+    "equity_value": 49367.73,
+    "total_value": 99891.92
+}
